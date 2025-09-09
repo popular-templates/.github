@@ -1,4 +1,4 @@
-| 名称         | 描述     |
+| 项目         | 描述     |
 | ------------ | -------------- |
 | [vite-antd-pc](https://github.com/popular-templates/vite-antd-pc) | Vite + React + TypeScript + Ant Design 管理后台。|
 | [next-antd-pc](https://github.com/popular-templates/next-antd-pc) | Next.js + Antd PC 管理后台。|
